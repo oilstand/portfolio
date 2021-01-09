@@ -50,7 +50,7 @@ header h1 a {
     header h1 a {
         line-height:50px;
 
-        padding-left:calc(32px + 8px);
+        padding-left:calc(16px);
         font-size:24px;
     }
 

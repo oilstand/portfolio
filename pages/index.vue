@@ -305,8 +305,8 @@
 .tech_list > li {
     border-radius:0.5em;
     border:solid 1px gray;
-    margin-right: 16px;
-    margin-bottom:8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
     padding: 2px 8px;
 }
 .achievement_table {
