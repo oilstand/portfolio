@@ -21,6 +21,7 @@
 }
 body {
     background-color:#F9F9F9;
+    color:#040404;
 }
 .main-body {
 }

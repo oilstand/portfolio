@@ -3,7 +3,7 @@
         <ul class="products-list">
             <li style="">
                 <div class="thumbnail" style="">
-                    <img src="https://www.circlecheck.site/favicon.ico" style="">
+                    <img src="/cc.png" style="">
                 </div>
                 <div class="product-info" style="">
                     <div style="">
