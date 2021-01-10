@@ -1,5 +1,5 @@
 {
-  "name": "akukin_building",
+  "name": "oilstand_portfolio",
   "scripts": {
     "dev": "nuxt --port 3333",
     "analyze": "nuxt build --analyze",
