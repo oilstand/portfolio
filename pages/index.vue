@@ -55,6 +55,9 @@
                 <ul class="tech_list" style="">
                     <li style="">GCP</li>
                     <li style="">GAE</li>
+                    <li style="">Google Cloud Datastore</li>
+                    <li style="">node</li>
+                    <li style="">express</li>
                     <li style="">JavaScript</li>
                     <li style="">Firebase Authentication</li>
                     <li style="">GitHub</li>
