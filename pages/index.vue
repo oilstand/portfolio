@@ -226,8 +226,34 @@
                 </div>
                 <div class="product-info" style="">
                     <div style="">
-                        <h3>ブログ2</h3>
-                        <a>close</a>
+                        <h3>Shimesaba.jp / 電子的な日常（ブログアーカイブ）</h3>
+                        <a href="https://shimesaba.jp/">https://shimesaba.jp/</a>
+                    </div>
+                    <span class="since-until_badge" style="">2021.1-</span>
+                </div>
+                <div class="description" style="">
+                    ブログ閉鎖の為、アクセスの多い記事を静的サイト化したもの。
+                </div>
+                <ul class="tech_list" style="">
+                    <li style="">GCP</li>
+                    <li style="">GAE</li>
+                    <li style="">node</li>
+                    <li style="">nuxt(static)</li>
+                    <li style="">vue</li>
+                    <li style="">JavaScript</li>
+                    <li style="">GitHub</li>
+                    <li style="">GTM / GA</li>
+                </ul>
+            </li>
+
+            <li style="">
+                <div class="thumbnail" style="">
+                    <img src="https://holoechelon.com/favicon.ico" style="">
+                </div>
+                <div class="product-info" style="">
+                    <div style="">
+                        <h3>Shimesaba.jp / 電子的な日常（ブログ）</h3>
+                        <a>公開終了</a>
                     </div>
                     <span class="since-until_badge" style="">2014.6-2021.1</span>
                 </div>
@@ -252,8 +278,8 @@
                 </div>
                 <div class="product-info" style="">
                     <div style="">
-                        <h3>ブログ1</h3>
-                        <a>close</a>
+                        <h3>オイルのブログ</h3>
+                        <a>公開終了</a>
                     </div>
                     <span class="since-until_badge" style="">2013.6-2014.6</span>
                 </div>
@@ -263,32 +289,6 @@
                 </div>
                 <ul class="tech_list" style="">
                     <li style="">さくらのレンタルサーバー</li>
-                    <li style="">PHP</li>
-                    <li style="">MySQL</li>
-                    <li style="">GA</li>
-                </ul>
-            </li>
-
-            <li v-if="false" style="">
-                <div class="thumbnail" style="">
-                    <img src="https://holoechelon.com/favicon.ico" style="">
-                </div>
-                <div class="product-info" style="">
-                    <div style="">
-                        <h3>ブログ(アーカイブ)</h3>
-                        <a>close</a>
-                    </div>
-                    <span class="since-until_badge" style="">2021.1-</span>
-                </div>
-                <div class="description" style="">
-                    2015.4で更新終了。<br>
-                    記事の記述、画像のアップロード、時限開放などのブログに必要な機能が含まれたCMS。<br>
-                    CodeIgniterを使って実装。<br>
-                    当時プレイしていたオンラインゲームの攻略情報などをまとめていた。
-                </div>
-                <ul class="tech_list" style="">
-                    <li style="">さくらのVPS</li>
-                    <li style="">CodeIgniter</li>
                     <li style="">PHP</li>
                     <li style="">MySQL</li>
                     <li style="">GA</li>
