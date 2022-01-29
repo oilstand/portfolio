@@ -4,8 +4,9 @@
             <div>
                 <img class="profile_image" src="https://pbs.twimg.com/profile_images/424202380255571968/f2MRAZ5s_400x400.jpeg">
                 <p>企業勤めのプログラマです。<br>
-                PC、スマートフォン、WEBブラウザ上で動くゲームの開発やWEBサイトの開発までいろいろな事をしています。<br>
-                趣味開発でも色々作っています</p>
+                PC、スマートフォン、WEBブラウザ上で動くゲームの開発やWEBサイトの開発まで広範囲の開発をしています。<br>
+                趣味開発でもWEBサービスとサイトをメインに開発しています</p>
+                <p><a href="https://github.com/oilstand" target="_blank" rel="noopener noreferrer">GitHub</a></p>
             </div>
             <div>
                 <h3>開発経験</h3>
