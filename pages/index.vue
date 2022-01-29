@@ -1,5 +1,69 @@
 <template>
     <div style="max-width:960px;margin:0 auto;">
+        <div class="profile" style="">
+            <div>
+                <img class="profile_image" src="https://pbs.twimg.com/profile_images/424202380255571968/f2MRAZ5s_400x400.jpeg">
+                <p>企業勤めのプログラマです。<br>
+                PC、スマートフォン、WEBブラウザ上で動くゲームの開発やWEBサイトの開発までいろいろな事をしています。<br>
+                趣味開発でも色々作っています</p>
+            </div>
+            <div>
+                <h3>開発経験</h3>
+                <table class="achievement_table">
+                    <tr><th>製品</th><th>担当範囲</th><th>数</th></tr>
+                    <tr><td class="name"><span>PCゲーム (Windowsネイティブ)</span></td><td>メインPG</td><td>多数</td></tr>
+                    <tr><td class="name"><span>PCゲーム (Unity製/Steam)</span></td><td>メインPG</td><td>単発</td></tr>
+                    <tr><td class="name"><span>スマートフォンゲーム (iOS/Android)</span></td><td>メインPG(ネイティブ部少)</td><td>多数</td></tr>
+                    <tr><td class="name"><span>スマートフォンゲーム (Unity製/ソーシャル)</span></td><td>一部</td><td>単発</td></tr>
+                    <tr><td class="name"><span>ブラウザゲーム (Flash/ActionScript)</span></td><td>メインPG</td><td>複数</td></tr>
+                    <tr><td class="name"><span>WEBサイト (サービス)</span></td><td>メインPG</td><td>多数</td></tr>
+                </table>
+            </div>
+            <div>
+                <h3>スキル等</h3>
+                <h4>資格・認定試験</h4>
+                <ul>
+                    <li>応用情報技術者</li>
+                    <li>Google Professional Cloud Developer</li>
+                </ul>
+                <h4>言語</h4>
+                <ul>
+                    <li>C++/C</li>
+                    <li>PHP</li>
+                    <li>C#</li>
+                    <li>JavaScript(TypeScript)</li>
+                    <li>HTML/CSS</li>
+                    <li>ActionScript</li>
+                </ul>
+                <h4>フレームワーク／環境</h4>
+                <ul>
+                    <li>Node.js</li>
+                    <li>Nuxt.js</li>
+                    <li>Laravel</li>
+                </ul>
+                <h4>ソフトウェア／クラウド</h4>
+                <ul>
+                    <li>Unity</li>
+                    <li>Git</li>
+                    <li>SVN</li>
+                    <li>GitHub/GitLab</li>
+                    <li>GitHub Actions</li>
+                    <li>GCP</li>
+                    <li>-GCE GoogleComputeEngine</li>
+                    <li>-GAE GoogleAppEngine</li>
+                    <li>-CloudRun</li>
+                    <li>-Datastore</li>
+                    <li>-CloudSQL</li>
+                    <li>-CloudStorage</li>
+                    <li>-CloudBuild</li>
+                    <li>-etc</li>
+                    <li>Firebase</li>
+                    <li>-Authentication</li>
+                    <li>-Hosting</li>
+                </ul>
+            </div>
+            <hr>
+        </div>
         <ul class="products-list">
             <li style="">
                 <div class="thumbnail" style="">
@@ -30,6 +94,7 @@
                         <tr><th></th><th>UU</th><th>PV</th></tr>
                     </thead>
                     <tbody>
+                        <tr><th>2021</th><td>133,368</td><td>456,550</td></tr>
                         <tr><th>2020</th><td>245,274</td><td>696,149</td></tr>
                         <tr><th>2019</th><td>366,550</td><td>2,071,924</td></tr>
                         <tr><th>2018</th><td>166,874</td><td>1,330,242</td></tr>
@@ -100,6 +165,31 @@
                 </ul>
             </li>
 
+            <li style="">
+                <div class="thumbnail" style="">
+                    <img src="https://apex.akukin.jp/icon.png" style="">
+                </div>
+                <div class="product-info" style="">
+                    <div style="">
+                        <h3>AquPEX Legends</h3>
+                        <a href="https://apex.akukin.jp/">https://apex.akukin.jp/</a>
+                    </div>
+                    <span class="since-until_badge" style="">2022.01-</span>
+                </div>
+                <div class="description" style="">
+                    VTuber湊あくあの「APEX ソロマスターチャレンジ」非公式応援サイト
+                </div>
+                <ul class="tech_list" style="">
+                    <li style="">GCP</li>
+                    <li style="">GAE</li>
+                    <li style="">node</li>
+                    <li style="">nuxt(SSR)</li>
+                    <li style="">vue</li>
+                    <li style="">JavaScript</li>
+                    <li style="">GitHub</li>
+                    <li style="">GTM / GA</li>
+                </ul>
+            </li>
 
             <li style="">
                 <div class="thumbnail" style="">
@@ -130,6 +220,7 @@
                         <tr><th></th><th>UU</th><th>PV</th></tr>
                     </thead>
                     <tbody>
+                        <tr><th>2021</th><td>23,470</td><td>201,765</td></tr>
                         <tr><th>2020</th><td>33,605</td><td>320,744</td></tr>
                     </tbody>
                 </table>
@@ -145,7 +236,7 @@
                         <h3>HoloEchelon</h3>
                         <a href="https://holoechelon.com/">https://holoechelon.com/</a>
                     </div>
-                    <span class="since-until_badge" style="">2020-</span>
+                    <span class="since-until_badge" style="">2021.1-</span>
                 </div>
                 <div class="description" style="">
                     ホロライブ所属VTuberの配信スケジュール確認サイト
@@ -322,7 +413,37 @@
 .achievement_table td {
     border:solid 1px gray;
 }
+
+.profile {
+}
+.profile h3 {
+    margin:24px 0 16px;
+}
+.profile h4 {
+    margin:16px 0 8px;
+}
+.profile_image {
+    width:200px;
+    height:200px;
+}
+.profile ul {
+    padding-left:32px;
+}
 @media screen and (max-width:959px) {
+    .profile > div {
+        margin:16px;
+    }
+    .profile .achievement_table {
+        width:100%;
+        margin: 16px 0;
+    }
+    .profile .achievement_table .name {
+        word-break: keep-all;
+    }
+    .profile .name span {
+        display:inline-block;
+        max-width:50vw;
+    }
     .products-list > li {
         padding: 16px;
     }
@@ -355,6 +476,9 @@
     }
 }
 @media screen and (min-width:960px) {
+    .profile > div {
+        margin:16px 30px;
+    }
     .products-list > li {
         padding: 16px 30px;
     }

@@ -20,7 +20,7 @@ handlers:
     static_files: dist/\1
     upload: dist/.*\.(ttf|ico)$
     secure: always
-    expiration: "4d"
+    expiration: "1d"
 
   - url: /sw.js
     static_files: dist/sw.js
