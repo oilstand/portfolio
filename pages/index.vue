@@ -12,12 +12,12 @@
                 <h3>開発経験</h3>
                 <table class="achievement_table">
                     <tr><th>製品</th><th>担当範囲</th><th>数</th></tr>
-                    <tr><td class="name"><span>PCゲーム (Windowsネイティブ)</span></td><td>メインPG</td><td>多数</td></tr>
-                    <tr><td class="name"><span>PCゲーム (Unity製/Steam)</span></td><td>メインPG</td><td>単発</td></tr>
-                    <tr><td class="name"><span>スマートフォンゲーム (iOS/Android)</span></td><td>メインPG(ネイティブ部少)</td><td>多数</td></tr>
-                    <tr><td class="name"><span>スマートフォンゲーム (Unity製/ソーシャル)</span></td><td>一部</td><td>単発</td></tr>
-                    <tr><td class="name"><span>ブラウザゲーム (Flash/ActionScript)</span></td><td>メインPG</td><td>複数</td></tr>
-                    <tr><td class="name"><span>WEBサイト (サービス)</span></td><td>メインPG</td><td>多数</td></tr>
+                    <tr><td class="name"><span>PCゲーム (Windowsネイティブ)</span></td><td>メインPG</td><td>多数(2016-2022)</td></tr>
+                    <tr><td class="name"><span>PCゲーム (Unity製/Steam)</span></td><td>メインPG</td><td>単発(2019/2022)</td></tr>
+                    <tr><td class="name"><span>スマートフォンゲーム (iOS/Android)</span></td><td>メインPG(ネイティブ部少)</td><td>多数(2016-2021)</td></tr>
+                    <tr><td class="name"><span>スマートフォンゲーム (Unity製/ソーシャル)</span></td><td>一部</td><td>単発(2021)</td></tr>
+                    <tr><td class="name"><span>ブラウザゲーム (Flash/ActionScript)</span></td><td>メインPG</td><td>複数(2017/2018)</td></tr>
+                    <tr><td class="name"><span>WEBサイト (サービス)</span></td><td>メインPG</td><td>多数(2019-2022)</td></tr>
                 </table>
             </div>
             <div>
